@@ -1,3 +1,8 @@
 {
-    "rust-analyzer.inlayHints.enable": false
+    "rust-analyzer.inlayHints.enable": false,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#472410",
+        "titleBar.activeBackground": "#643316",
+        "titleBar.activeForeground": "#FDFAF8"
+    }
 }
